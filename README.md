@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Tailwind, Javascript**
 
-- 💬 Ask me about **python, flash and esp32s**
+- 💬 Ask me about **python, flask and esp32s**
 
 - ⚡ Fun fact **I am a teenager**
 
