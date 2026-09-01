@@ -1,28 +1,163 @@
-<h1 align="center">Hi 👋, I'm Silicon Acid(Celsius)</h1>
-<h3 align="center">A hobbyist frontend developer and love embedded systems from India</h3>
+<!-- ===================== HEADER ===================== -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunray-hub&label=Profile%20views&color=0e75b6&style=flat" alt="sunray-hub" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunray-hub" alt="sunray-hub" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Silicon%20Acid&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-- 🔭 I’m currently working on **my personal website and a multilingual project brefier**
+### ⚡ Celsius • Silicon Acid
 
-- 🌱 I’m currently learning **Tailwind, Javascript**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Embedded+Systems+Enthusiast+%F0%9F%94%8C;ESP32+%7C+Arduino+%7C+Sensors;Python+%7C+Flask+%7C+JavaScript;Electronics+%2B+Software+%3D+%E2%9A%A1;Building+things+just+to+see+if+they+work+%F0%9F%98%8E" />
 
-- 💬 Ask me about **python, flask and esp32s**
+<br>
 
-- ⚡ Fun fact **I am a teenager**
+<img src="https://komarev.com/ghpvc/?username=sunray-hub&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/@SiliconAcid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@siliconacid" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vtlri8zvrn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vtlri8zvrn" height="30" width="40" /></a>
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```text
+┌──────────────────────────────────────────────┐
+│  ⚡ SILICON ACID                            │
+│                                              │
+│  > Developer                                │
+│  > Electronics enthusiast                   │
+│  > Embedded systems nerd                    │
+│  > Space enthusiast                         │
+│  > Professional "what if I connect this?"  │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+Hey! I'm **Celsius**, also known as **Silicon Acid**.
+
+I love combining **software + hardware** to build weird, useful and sometimes completely unnecessary things. 😭
+
+* 🔭 Currently building my **personal website**
+* 🌍 Working on a **multilingual project**
+* 🔌 Experimenting with **ESP32 & Arduino**
+* 🌱 Learning **JavaScript + Tailwind CSS**
+* 🐍 Building projects with **Python & Flask**
+* 🚀 Interested in **space & astronomy**
+* 🎸 Playing guitar when I'm not debugging something
+
+---
+
+## ⚡ My Tech
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,tailwind,flask,git,github,vscode,linux,arduino,raspberrypi,blender,opencv&perline=8" />
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 🔌 Embedded
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunray-hub&show_icons=true&locale=en&layout=compact" alt="sunray-hub" /></p>
+<p align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunray-hub&" alt="sunray-hub" /></p>
+`ESP32` • `Arduino` • `I2C` • `SPI` • `RFID` • `Sensors` • `TFT Displays` • `Motors` • `Audio`
 
+</p>
+
+---
+
+## 🚀 Currently Building
+
+<div align="center">
+
+|          🔬 Project         | 💡 Description                          |
+| :-------------------------: | :-------------------------------------- |
+|   🌐 **Personal Website**   | My developer portfolio & experiments    |
+| 🔌 **Electronics Projects** | ESP32, Arduino, sensors & displays      |
+| 🌍 **Multilingual Project** | A project focused on multiple languages |
+|    🚀 **Space Projects**    | Astronomy & space-related experiments   |
+
+</div>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sunray-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunray-hub&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunray-hub&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 My Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 🎬 What I Do
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+
+</div>
+
+```text
+                 ┌─────────────┐
+                 │    IDEA     │
+                 └──────┬──────┘
+                        ↓
+                 ┌─────────────┐
+                 │    BUILD    │
+                 └──────┬──────┘
+                        ↓
+                 ┌─────────────┐
+                 │    BREAK    │
+                 └──────┬──────┘
+                        ↓
+                 ┌─────────────┐
+                 │   DEBUG 💀  │
+                 └──────┬──────┘
+                        ↓
+                 ┌─────────────┐
+                 │   REPEAT    │
+                 └─────────────┘
+```
+
+---
+
+## 🌐 Find Me
+
+<div align="center">
+
+<a href="https://www.youtube.com/@SiliconAcid">
+<img src="https://img.shields.io/badge/YouTube-Silicon%20Acid-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/vtlri8zvrn">
+<img src="https://img.shields.io/badge/LeetCode-vtlri8zvrn-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ `while(alive) { build(); break(); fix(); repeat(); }`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
+
+</div>
